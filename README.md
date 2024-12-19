@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello Betas, this is for my scitech portfolio.
+## Play openarena beta
 
 <!--
 **SanchitKhope/sanchitkhope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
